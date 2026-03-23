@@ -1,3 +1,11 @@
+# RoadJunction
+
+> Edge AI with Hailo-8 for smart infrastructure
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem. Forked from [`sp4ce-cowboy/smart-digital-junction`](https://github.com/sp4ce-cowboy/smart-digital-junction).
+
+---
+
 # AI-on-Edge: Traffic Management 
 
 ## Documentation Overview
